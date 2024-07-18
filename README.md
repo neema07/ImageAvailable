@@ -31,3 +31,13 @@ If credentials are incorrect, an error message is displayed.
 IMAGE VIEWING PAGE
 Fetches a list of images from the web API.
 Displays each image with the author's name below it.
+
+
+<p float="left">
+  <img src="/signup.jpg" height="300" width="150" />
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="/login.jpg" height="300" width="150" />
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="imageview.jpg" height="300" width="150" />
+   
+</p>
